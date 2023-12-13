@@ -1,8 +1,5 @@
 name: 'test env'
 
-on:
-  push:
-    branches: [ "main" ]
 jobs:
   testenv:
     name: 'test env'
